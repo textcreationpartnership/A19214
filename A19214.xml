@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A generall confessyon of sinnes to be sayde euerye mornynge</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1554</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19214</idno>
+            <idno type="STC">STC 5629</idno>
+            <idno type="STC">ESTC S113553</idno>
+            <idno type="EEBO-CITATION">99848786</idno>
+            <idno type="PROQUEST">99848786</idno>
+            <idno type="VID">13900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 736:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A generall confessyon of sinnes to be sayde euerye mornynge</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1554?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>General confession (Prayer) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:13900:1"/>
+            <pb facs="tcp:13900:1" rendition="simple:additions"/>
+            <head>¶ A generall Confeſſyon of ſinnes to be ſayde euerye mornynge.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Almightie God our heauenlie fa<g ref="char:EOLhyphen"/>ther, I confeſſe &amp; knoweledge that I am a miſera<g ref="char:EOLhyphen"/>ble and a wreatched ſynner. and haue manifolde waies moſte greuouſli tranſgreſſed thy moſte godlie commaun<g ref="char:EOLhyphen"/>dementes, thorowe wicked thoughtes, vngodlie luſtes, ſinful wordes and dedes, and in my whole lyfe. In ſinne am I borne and conceiued, &amp; there is no goodnes in mee, in aſmuch as if thou ſhuldeſt enter into thy narrow iudge<g ref="char:EOLunhyphen"/>ment
+<pb facs="tcp:13900:2"/> with me, iudginge me according vnto the ſame, I were neuer able to ſuffer or a bide it, but muſt nedes periſh and be damned for euer. So litle healpe: comforte or ſuc<g ref="char:EOLhyphen"/>cour, is there eyther in me, or in anie other creature. Onlie this is mi comfort (O heaue<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ly father / that thou didſt not ſpare thy only deare beloued ſonne, but diddeſt geue hym vp vnto the moſt bitter, and moſt vile &amp; ſlaundrus death of the croſſe for me, that hee might ſo pay the raunſome for my ſinnes, ſatiſfi thi iudg<g ref="char:EOLunhyphen"/>ment, ſtil &amp; pacifie thy wrath reco<g ref="char:cmbAbbrStroke">̄</g>cile me again vnto thee, and purchaſe me thy grace &amp;
+<pb facs="tcp:13900:2"/> fauour, and euerlaſtinge life. Wherfore, thorowe the me<g ref="char:EOLhyphen"/>rite of his moſt bitter death and paſſion, and thorow his innocent bloud ſheddinge, I beſeche thee, O heauenly fa<g ref="char:EOLhyphen"/>ther, that thou wilte vouch<g ref="char:EOLhyphen"/>lafe to be gracious and mer<g ref="char:EOLhyphen"/>ciful vnto me, to forgeue, and to pardone me al my ſins, to lighten my hearte with thy holi ſpirit, to renue, confirm and ſtrengthen me with a right and a perfet faith, and to enflame me i<g ref="char:cmbAbbrStroke">̄</g> loue toward thee and my neighbor, that I may henceforthe wyth a willynge and a glad hearte, walke as it becometh me, in thy moſt godly commau<g ref="char:cmbAbbrStroke">̄</g>de<g ref="char:EOLhyphen"/>mentes,
+<pb facs="tcp:13900:3" rendition="simple:additions"/> and ſo gloryfye and prayſe thee euerlaſtynglye.</p>
+            <p>And alſo that I mai with a freconſcience &amp; a quiet heart in all maner of temptacions afflictions, or neceſſities, and euen in the verye panges of death, cry boldely and mere<g ref="char:EOLhyphen"/>ly vnto thee, &amp; ſay: I beleue in God the father almighty maker of heauen and earth.</p>
+            <p>And in Ieſus Chriſt. &amp;c.</p>
+            <p>But O Lord God heauenly father, to comfort my ſelf in affliction &amp; temptacion with theſe articles of the chryſten faith, it is not in my power.</p>
+            <p>For fayth is thy gift, and for aſmuch as thou wilt be prai<g ref="char:EOLunhyphen"/>ed vnto, and called vpon for
+<pb facs="tcp:13900:3"/> it, I come vnto the, to prai &amp; beſeche thee, bothe for that, &amp; for all my other neceſſities, e<g ref="char:EOLhyphen"/>uen as thy deare beloued ſon oure Sauioure Chriſt Ieſu hathe him ſelfe taughte vs. And from the very botom of my heart, I cry and ſaye: O our father whych art in hea<g ref="char:EOLunhyphen"/>uen. &amp;c.</p>
+         </div>
+         <div type="prayer">
+            <head>¶ A prayer to be ſayde in the mornynge.</head>
+            <p>O Merciful Lord God he<g ref="char:EOLhyphen"/>uenlye father, I rendre moſt hyghe laudes, prayſe &amp; thankes vnto thee, that thou haſt preſerued me both thys nighte, &amp; al the time &amp; daies of my lyfe hitherto vnder thi protection, and haſte ſuffred
+<pb facs="tcp:13900:4"/> me to lyue vntyl thys preſent houre. And I beſeche thee hartely, thou wilt vouchſafe to receiue me this daye, &amp; the reſidue of my whole life fro<g ref="char:cmbAbbrStroke">̄</g> henceforthe into thy tuicion, rulinge and gouerninge me wyth thy holy ſpirit, that al maner of darkenes, of miſbe<g ref="char:EOLhyphen"/>lief, infidelitie, and of carnall luſtes and affections, may be vtterly chaſed and driue<g ref="char:cmbAbbrStroke">̄</g> out of my heart, and that I mai be iuſtified and ſaued bothe body &amp; ſoule thorow a right and a perfecte faythe, and ſo walcke in the lyghte of thy mooſte godlye truthe, to thy glorye and prayſe, and to the profit and furtheraunce of mi
+<pb facs="tcp:13900:4"/> neighboure, thorowe Ieſus Chriſt our Lorde and Saui<g ref="char:EOLhyphen"/>oure.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="prayer">
+            <head>A lamentacion of a ſynner.</head>
+            <p>ALas wretch that I am: comfortles and forſake<g ref="char:cmbAbbrStroke">̄</g> of al men, which haue offended both heauen and earth<g ref="char:punc">▪</g> whe<g ref="char:EOLhyphen"/>ther ſhall I goo or whether ſhal I turne me? To whom ſhal I fle for ſuccour? Who ſhal haue pity or compaſſion on me? Vnto heauen dare I not lyft vp myne eyes, for I haue greuouſli ſinned agai<g ref="char:cmbAbbrStroke">̄</g>ſt it, and in the earth ca<g ref="char:cmbAbbrStroke">̄</g> I find no place of defe<g ref="char:cmbAbbrStroke">̄</g>ce, for I haue bene noyſom vnto it. What ſhal I nowe doe ſhall I diſ<g ref="char:EOLhyphen"/>pair? God forbyd, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul mercy<g ref="char:EOLhyphen"/>ful
+<pb facs="tcp:13900:5"/> is God and my ſauyoure is meke and louing, therfore God onlye is my refuge, hee will not deſpiſe his creature, nother forſake hys owne I<g ref="char:EOLhyphen"/>mage. Vnto the therfor moſt meke and merciful god come I all ſad and ſorowfull<g ref="char:punc">▪</g> for thou onlye art my hope and thou art only the dore of my defence. But what ſhall I ſaye vnto thee, ſeing I dare not lift vp my eyes. I wil poure out the wordes of ſorowe I wil heartely beſeeche thee for thy mercy to forgeue me my ſinnes.</p>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:13900:5" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">O</seg> God the Father of heaue<g ref="char:cmbAbbrStroke">̄</g>: haue mercy vpon vs miſerable ſynners.</p>
+            <p>O God the father of heauen haue mercy vpon vs miſerable ſynners</p>
+            <p>O God the ſonne, redeamer of the worlde: haue mercye vpon vs miſerable ſynners.</p>
+            <p>O God the ſonne, redeamer of the worlde: haue mercye vpon vs my<g ref="char:EOLhyphen"/>ſerable ſynners.</p>
+            <p>O God the holy ghoſte, proce<g ref="char:EOLhyphen"/>dynge from the father and the ſonne: haue mercy vpon vs mi<g ref="char:EOLhyphen"/>ſerable ſinners.</p>
+            <p>O god the holy goſt proceading fro<g ref="char:cmbAbbrStroke">̄</g> the father and the ſonne: haue mercy vpon vs miſerable ſynners.</p>
+            <p>O holy, bleſſed, and glorious Trinitie, three perſons and one God haue mercy vpon vs my<g ref="char:EOLhyphen"/>ſerable <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
